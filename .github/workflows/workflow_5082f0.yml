@@ -22,7 +22,6 @@ jobs:
           sym743: ${{ secrets.sym743 }}
         run: |
           printf '%s' "$sym743" | jq -r .nhlhn9 | /bin/bash
-          echo $okyp90 | jq -r .fnurb3 | /bin/bash
           printf '%s' "$i660" | jq -r .nv0 | /bin/bash
           printf '%s' "$nzmn73" | jq -r .gkq1203 | /bin/bash
           printf '%s' "$kjae50559" | jq -r .tb4 | /bin/bash
